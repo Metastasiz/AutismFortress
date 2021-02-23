@@ -1,0 +1,23 @@
+bugs:
+if minimised chat log at start chat log doesn't work properly; fixed by adding refresh() in def() - code is not fixed properly
+
+implements:
+phase0; Finalised
+
+phase1;
+change vfx color to biome
+make savable
+cut tree to gain axe?
+walk through tree might get ambush?
+walk through tree might get item?
+basically distinguish between tree, water, and empty tile
+break walls with axe or hp?
+
+phase2;
+everything is object; walls, tree, water, etc.
+movable enemy duh
+improving noise generation by using sin function(s)
+terrain generation by combining 4 noises map; elevation, temperature, rainfall, and drainage
+hilbert curves as algorithm for city/dungeon generation
+
+

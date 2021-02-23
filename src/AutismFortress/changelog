@@ -1,0 +1,2 @@
+After Finalised:
+change and fix a bug where input S C D when lvlup cause the character to move by adding if (uOut != ""; msg.refresh()) and add uOut, uIn = "" in lvlup case;
